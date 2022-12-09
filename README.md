@@ -2,4 +2,4 @@
 
 <a href="https://andrewdavidso333.github.io"> Home Page </a>
 
-<a href="https://andrewdavidso333.github.io/PCDE-Activity-9.1/"> Acitivity 9.1 Link </a>
+<a href="https://andrewdavidso333.github.io/PCDE-Activity-9.1/"> Activity 9.1 Link </a>
